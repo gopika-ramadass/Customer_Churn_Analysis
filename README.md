@@ -44,9 +44,4 @@ Here are some of the key visualizations included in the dashboard:
 - **Demographic Patterns**: Certain age groups or regions are more prone to churn. Tailoring customer engagement strategies to these demographics may help reduce churn.
 - **Service Optimization**: Services like internet and phone show higher churn rates. Consider improving service quality or revising pricing models for these products.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
-## Connect with Me
-- **LinkedIn Post**: [Project Overview](https://www.linkedin.com/posts/sunny-bibyan_pwc-customer-churn-analysis-dashboard-activity-7201724757229068288-2Zrt?utm_source=share&utm_medium=member_desktop)
-- **Contact**: [Sunny Kumar](mailto:sunnykumar6121997@gmail.com)
